@@ -1,5 +1,5 @@
  
-data = readmatrix ("C:\Users\2923821P\Dropbox\PhD\ENG5316 Advanced Ultrasonics\Coursework\Data\Horn data_40_Time adjusted.csv");
+data = readmatrix ("C:\Users\2923821P\Dropbox\PhD\ENG5316 Advanced Ultrasonics\Coursework\Data\Horn data_40.csv");
 % Specify the path to the xlsx file
 %csvFilePath = 'C:\Users\2923821P\Dropbox\PhD\ENG5316 Advanced Ultrasonics\Coursework\Data\Horn data_25_Time adjusted.csv';
 
